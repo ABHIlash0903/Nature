@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.logo .fas {
+    color: green;
+}
+
+.navbar-nav .nav-item .nav-link {
+    text-transform: uppercase;
+    color: white;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: green;
+}
+
+footer {
+    background: #222;
+}
